@@ -9,12 +9,12 @@
     }
 
   @font-face {
-    font-family: "Aileron Regular"
+    font-family: "Regular"
     src: url("./css:fonts/aileron/Aileron-Regular.otf") format("truetype");
     }
 
   @font-face {
-    font-family: "Aileron Bold"
+    font-family: "Bold"
     src: url("./css:fonts/aileron/Aileron-Bold.otf") format("truetype");
   }
 
@@ -33,7 +33,7 @@ p.width {
 }
 
 .subtitle {
-  font-family: "Aileron Regular"
+  font-family: "Regular"
 }
 
 .subtitle2 {
