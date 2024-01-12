@@ -3,6 +3,11 @@
       src: url("./css:fonts/aileron/Aileron-Thin.otf") format("truetype");
     }
 
+  @font-face {
+      font-family: "BebasNeue";
+      src: url("./css:fonts/BebasNeue-Regular.ttf") format("truetype");
+    }
+
 p.width {
   width: 400;
   font-family: "Aileron";
@@ -11,4 +16,8 @@ p.width {
 .li_style {
   width: 80%;
   font-family: "Aileron";
+}
+
+.title {
+  font-family: "BebasNeue";
 }
