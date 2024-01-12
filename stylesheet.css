@@ -36,6 +36,7 @@ p.width {
 }
 
 .pic {
+  display: block;
   align: "right";
   width: 200px;
   height: 250px;
