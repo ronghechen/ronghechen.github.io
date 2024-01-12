@@ -2,3 +2,7 @@
       font-family: "Aileron";
       src: url("./css:fonts/aileron/Aileron-Thin.otf") format("truetype");
     }
+
+p.width {
+  width: 400;
+}
