@@ -40,5 +40,6 @@ p.width {
   align: "right";
   width: 200px;
   height: 250px;
+  margin-left: 5%;
   margin-right: 5%;
 }
