@@ -8,6 +8,11 @@
       src: url("./css:fonts/BebasNeue-Regular.ttf") format("truetype");
     }
 
+  @font-face {
+    font-family: "Aileron Regular"
+    src: url("./css:fonts/aileron/Aileron-Regular.otf") format("truetype");
+    }
+
 p.width {
   width: 400;
   font-family: "Aileron";
@@ -20,4 +25,8 @@ p.width {
 
 .title {
   font-family: "BebasNeue";
+}
+
+.subtitle {
+  font-family: "Aileron Regular"
 }
