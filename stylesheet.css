@@ -13,6 +13,11 @@
     src: url("./css:fonts/aileron/Aileron-Regular.otf") format("truetype");
     }
 
+  @font-face {
+    font-family: "Aileron Bold"
+    src: url("./css:fonts/aileron/Aileron-Bold.otf") format("truetype");
+  }
+
 p.width {
   width: 400;
   font-family: "Aileron";
@@ -29,4 +34,8 @@ p.width {
 
 .subtitle {
   font-family: "Aileron Regular"
+}
+
+.subtitle2 {
+  font-family: "Aileron Bold"
 }
