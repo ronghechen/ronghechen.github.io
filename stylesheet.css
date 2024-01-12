@@ -36,6 +36,7 @@ p.width {
 }
 
 .pic {
-  height: 250
-  width: 200
+  align = right;
+  width = "200"
+  height = "250"
 }
