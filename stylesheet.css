@@ -37,6 +37,7 @@ p.width {
 
 .pic {
   align: "right"
-  width: 200px
-  height: 250px
+  width: 200px;
+  height: 250px;
+  margin: 25px;
 }
