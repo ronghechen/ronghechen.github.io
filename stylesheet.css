@@ -41,3 +41,10 @@ p.width {
   margin-left: 5%;
   margin-right: 5%;
 }
+.timerButton {
+    background:url(./images/but.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:100px;
+    height:100px;
+}
