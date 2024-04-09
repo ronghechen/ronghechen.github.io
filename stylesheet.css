@@ -42,7 +42,7 @@ p.width {
   margin-right: 5%;
 }
 .timerButton {
-    background:url(./images/but.png) no-repeat;
+    background:url(./timer.png) no-repeat;
     cursor:pointer;
     border:none;
     width:100px;
