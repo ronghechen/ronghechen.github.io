@@ -48,7 +48,9 @@ p.width {
   background-attachment: fixed; 
   background-size: cover;
   padding: 40px 65px; 
-  margin-left: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 25px;
   font-family: "Aileron";
   cursor: pointer;
