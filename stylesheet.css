@@ -36,8 +36,11 @@ p.width {
 }
 
 .header {
-  padding: 60px;
+  padding: 30px;
   font-family:"BebasNeue";
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
   background-image: url('./header.png');
   color: white;
   font-size: 30px;
