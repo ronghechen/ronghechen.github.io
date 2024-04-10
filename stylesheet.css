@@ -38,7 +38,7 @@ p.width {
 .header {
   padding: 60px;
   font-family:"BebasNeue";
-  background: #1abc9c;
+  background-image: url('./header.png');
   color: white;
   font-size: 30px;
 }
