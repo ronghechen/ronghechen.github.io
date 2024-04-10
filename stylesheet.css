@@ -36,19 +36,6 @@ p.width {
   margin-left: 5%;
 }
 
-.header {
-  width: 100%;
-  height: 100px;
-  vertical-align: top;
-  display: block;
-  font-family:"BebasNeue";
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url('./header.png');
-  color: white;
-  font-size: 30px;
-}
-
 .pic {
   width: 200px;
   height: 250px;
