@@ -38,7 +38,8 @@ p.width {
 
 .header {
   width: 100%;
-  height: 80px;
+  height: 100px;
+  vertical-align: top;
   display: block;
   font-family:"BebasNeue";
   background-repeat: no-repeat;
