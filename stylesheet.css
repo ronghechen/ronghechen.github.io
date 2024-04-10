@@ -36,10 +36,10 @@ p.width {
 }
 
 .header {
-  padding: 20px;
+  padding: 20px 10px;
   font-family:"BebasNeue";
+  overflow: scroll;
   background-repeat: no-repeat;
-  background-attachment: fixed; 
   background-size: cover;
   background-image: url('./header.png');
   color: white;
