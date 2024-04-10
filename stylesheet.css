@@ -35,6 +35,14 @@ p.width {
   margin-left: 5%;
 }
 
+.header {
+  padding: 60px;
+  font-family:"BebasNeue";
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
 .pic {
   width: 200px;
   height: 250px;
