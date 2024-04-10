@@ -41,3 +41,13 @@ p.width {
   margin-left: 5%;
   margin-right: 5%;
 }
+
+.buttonToLink{
+   background: none;
+   border: none;
+   color: white;
+}
+
+.buttonToLink:hover{
+   opacity: 0.5;
+}
