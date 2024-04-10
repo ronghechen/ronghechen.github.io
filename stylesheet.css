@@ -43,6 +43,10 @@ p.width {
   margin-right: 5%;
 }
 
+.pic:hover{
+   opacity: 0.5;
+}
+
 .buttonToLink{
    background-image: url('./sean-sinclair-ozqUdQZbjBw-unsplash.jpg');
   background-repeat: no-repeat;
