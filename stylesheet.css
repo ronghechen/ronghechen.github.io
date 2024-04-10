@@ -43,7 +43,7 @@ p.width {
 }
 
 .buttonToLink{
-   background: none;
+   background-image: url('./timer.png') 10px 10px no-repeat;
    border: none;
    color: white;
 }
