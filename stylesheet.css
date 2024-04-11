@@ -65,7 +65,7 @@ p.width {
    opacity: 0.5;
 }
 
-loader-wrapper .loader-section {
+#loader-wrapper .loader-section {
     position: fixed;
     top: 0;
     width: 51%;
@@ -76,14 +76,33 @@ loader-wrapper .loader-section {
     z-index: 1000;
 }
  
-loader-wrapper .loader-section.section-left {
+#loader-wrapper .loader-section.section-left {
     left: 0;
 }
  
-loader-wrapper .loader-section.section-right {
+#loader-wrapper .loader-section.section-right {
     right: 0;
 }
-loader {
+#loader {
     z-index: 1001; 
 }
   
+.loaded #loader-wrapper .loader-section.section-left {
+    -webkit-transform: translateX(-100%);  
+    -ms-transform: translateX(-100%);  
+    transform: translateX(-100%);  
+}
+ 
+.loaded #loader-wrapper .loader-section.section-right {
+    -webkit-transform: translateX(100%); 
+    -ms-transform: translateX(100%);  
+    transform: translateX(100%);  
+}
+
+.loaded #loader {
+    opacity: 0;
+}
+
+.loaded #loader-wrapper {
+    visibility: hidden;
+}
