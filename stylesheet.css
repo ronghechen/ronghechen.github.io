@@ -107,7 +107,7 @@ p.width {
   display: flex;
   justify-content: center;
   align-items: center;
-  transition: opacity 0.75s, visibility 0.75s;
+  transition: opacity 1.25s, visibility 1.25s;
 }
 
 .loader-hidden {
