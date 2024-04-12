@@ -64,3 +64,11 @@ p.width {
 .buttonToLink:hover{
    opacity: 0.5;
 }
+
+
+.loader {
+  background-image: url("./img/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  animation: loader 2s infinite ease;
+}
