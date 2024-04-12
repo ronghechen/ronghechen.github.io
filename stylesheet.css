@@ -114,3 +114,8 @@ p.width {
   opacity: 0;
   visibility: hidden;
 }
+
+.loader-wrapper-hidden {
+  opacity: 0;
+  visibility: hidden;
+}
