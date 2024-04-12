@@ -57,9 +57,10 @@
       <li class="li_style"><a href="https://www.linkedin.com/in/ronghe-chen-8408b61bb/">LinkedIn</a></li>
     </ul>
     <script>
-      $(window).on("load", function(){
-        $(".loader-wrapper").fadeOut("slow");
-      });
+      window.onload = function () {
+            var loadingScreen = document.getElementById("loader-wrapper");
+            loadingScreen.style.display = 'none';
+        }
     </script>
   </body>
 </html>
