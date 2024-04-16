@@ -58,11 +58,12 @@ p.width {
     overflow: hidden;
     border-right: .15em solid black;
     white-space: nowrap;
+    font-size: 1.6rem;
     font-family: "BebasNeue";
-    padding-top: 10px;
     margin-left: 5%;
+    padding-top: 10px;
     width: 0;
-    animation: typing 1s forwards;
+    animation: typing 1s steps(20, end) forwards;
 }
 
 .pic {
