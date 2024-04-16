@@ -38,9 +38,9 @@ p.width {
 
 .typed-out{
     overflow: hidden;
-    border-right: .15em solid black;
+    border-right: 10px solid black;
     white-space: nowrap;
-    font-size: 2.2rem;
+    font-size: 10px;
     width: 0;
     font-family: "BebasNeue";
     margin-left: 5%;
