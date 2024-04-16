@@ -36,6 +36,15 @@ p.width {
   margin-left: 5%;
 }
 
+.typed-out {
+  overflow: hidden;
+  border-right: .15em solid black;
+  font-family: "BebasNeue";
+  padding-top: 10px;
+  margin-left: 5%;
+  width: 0;
+}
+
 .pic {
   width: 200px;
   height: 250px;
