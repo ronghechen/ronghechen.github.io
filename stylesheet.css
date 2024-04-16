@@ -41,10 +41,11 @@ p.width {
     border-right: .15em solid black;
     white-space: nowrap;
     font-size: 2.2rem;
+    width: 0;
     font-family: "BebasNeue";
     margin-left: 5%;
     padding-top: 10px;
-    animation: typing 1s steps(34, end) forwards;
+    animation: typing 1.2s steps(34, end) forwards;
 }
 
 .container {
