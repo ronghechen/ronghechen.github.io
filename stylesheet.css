@@ -36,13 +36,15 @@ p.width {
   margin-left: 5%;
 }
 
-.typed-out {
-  overflow: hidden;
-  border-right: .15em solid black;
-  font-family: "BebasNeue";
-  padding-top: 10px;
-  margin-left: 5%;
-  width: 0;
+.typed-out{
+    overflow: hidden;
+    border-right: .15em solid black;
+    white-space: nowrap;
+    font-size: 2.2rem;
+    font-family: "BebasNeue";
+    margin-left: 5%;
+    padding-top: 10px;
+    animation: typing 1s steps(34, end) forwards;
 }
 
 .container {
@@ -54,17 +56,6 @@ p.width {
   to { width: 100% }
 }
 
-.typed-out{
-    overflow: hidden;
-    border-right: .15em solid black;
-    white-space: nowrap;
-    font-size: 2.2rem;
-    font-family: "BebasNeue";
-    margin-left: 5%;
-    padding-top: 10px;
-    width: 0;
-    animation: typing 1s steps(29, end) forwards;
-}
 
 .pic {
   width: 200px;
