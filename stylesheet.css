@@ -78,6 +78,26 @@ p.width {
   margin-left: 5%;
   font-size: 25px;
   font-family: "Aileron";
+  flex-direction: row;
+  cursor: pointer;
+   border: none;
+   color: white;
+}
+
+.buttonToLink2:hover{
+   opacity: 0.5;
+}
+
+.buttonToLink2{
+   background-image: url('./sean-sinclair-ozqUdQZbjBw-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  padding: 40px 65px; 
+  margin-left: 5%;
+  font-size: 25px;
+  font-family: "Aileron";
+  flex-direction: row;
   cursor: pointer;
    border: none;
    color: white;
