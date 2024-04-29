@@ -161,3 +161,23 @@ p.width {
   opacity: 0;
   visibility: hidden;
 }
+
+.header {
+  background-image: url("./img/background.png");
+  background-repeat: no-repeat;
+  padding: 1.3rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-bar {
+  margin: auto;
+}
+
+.nav-bar a {
+  color: white;
+  padding: 1.5rem;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
