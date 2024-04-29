@@ -190,3 +190,14 @@ p.width {
   text-decoration: none;
   font-size: 1.2rem;
 }
+
+.nav-bar a.icon {
+  background-color: transparent;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.nav-bar a:hover {
+  opacity: 0.5;
+}
