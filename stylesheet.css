@@ -172,8 +172,8 @@ p.width {
   background-repeat: no-repeat;
   padding: 1.3rem;
   display: flex;
-margin: 0px;
-overflow: hidden;
+  top: 0;
+  overflow: hidden;
   justify-content: space-between;
 }
 
