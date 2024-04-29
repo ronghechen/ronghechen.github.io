@@ -170,7 +170,7 @@ p.width {
   padding: 1.3rem;
   display: flex;
 margin: 0px;
-overflow: auto;
+overflow: hidden;
   justify-content: space-between;
 }
 
