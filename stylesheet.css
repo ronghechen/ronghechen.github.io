@@ -169,13 +169,12 @@ p.width {
 
 .header {
   background-image: url("./img/background.png");
-  text-align: right;
   background-repeat: no-repeat;
   padding: 1.3rem;
   display: flex;
   top: 0;
   overflow: hidden;
-  justify-content: space-between;
+  justify-content: flex-end;
 }
 
 .nav-bar {
@@ -187,7 +186,6 @@ p.width {
   padding: 1.5rem;
   cursor: pointer;
   font-family: "Aileron";
-  text-align: right;
   text-decoration: none;
   font-size: 1.2rem;
 }
