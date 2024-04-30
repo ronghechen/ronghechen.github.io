@@ -177,6 +177,9 @@ p.width {
   justify-content: flex-end;
 }
 
+.header-right {
+  float: right;
+}
 .nav-bar {
   margin: auto;
 }
