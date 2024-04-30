@@ -177,10 +177,6 @@ p.width {
   justify-content: flex-end;
 }
 
-.header-right {
-  position: absolute;
-  right: 0;
-}
 .nav-bar {
   margin: auto;
 }
