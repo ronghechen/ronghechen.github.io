@@ -174,20 +174,21 @@ p.width {
   display: flex;
   top: 0;
   overflow: hidden;
+  position: relative;
   justify-content: flex-end;
 }
 
 .nav-bar {
   margin: auto;
-  text-align: right;
 }
 
 .nav-bar a {
   color: white;
+  position: absolute;
   padding: 1.5rem;
   cursor: pointer;
   font-family: "Aileron";
-  text-align: right;
+  right: 0;
   text-decoration: none;
   font-size: 1.2rem;
 }
