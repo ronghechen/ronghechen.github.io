@@ -172,7 +172,6 @@ p.width {
   background-repeat: no-repeat;
   padding: 1.3rem;
   display: flex;
-  flex-direction: row-reverse;
   top: 0;
   overflow: hidden;
   justify-content: flex-end;
@@ -180,6 +179,7 @@ p.width {
 
 .nav-bar {
   margin: auto;
+  text-align: right;
 }
 
 .nav-bar a {
