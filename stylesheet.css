@@ -177,6 +177,14 @@ p.width {
   justify-content: flex-end;
 }
 
+label {
+  font-family: "Aileron";
+}
+
+div {
+  font-family: "Aileron";
+}
+
 .nav-bar {
   margin: auto;
 }
