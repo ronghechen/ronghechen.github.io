@@ -180,6 +180,8 @@ p.width {
 label {
   font-family: "Aileron";
   margin-left: 5%;
+  cursor: pointer;
+  color: #bbb9ec;
 }
 
 div {
