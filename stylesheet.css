@@ -173,6 +173,9 @@ input {
 
 input:checked ~ blogPost
 {
+  opacity: 1;
+  height: auto;
+  padding: 10px;
 }
 
 .header {
@@ -203,6 +206,7 @@ blogPost {
   margin-left: 5%
   height: 0;
   overflow: hidden;
+  opacity: 0;
 }
 
 .nav-bar {
