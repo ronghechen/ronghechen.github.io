@@ -182,10 +182,16 @@ label {
   margin-left: 5%;
   cursor: pointer;
   color: #bbb9ec;
+  padding: 10px;
+}
+
+label-before {
+  content: " ";
 }
 
 div {
   font-family: "Aileron";
+  padding: 10px;
 }
 
 .nav-bar {
