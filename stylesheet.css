@@ -167,17 +167,6 @@ p.width {
   visibility: hidden;
 }
 
-input {
-  display: none;
-}
-
-input:checked ~ blogPost
-{
-  opacity: 1;
-  height: auto;
-  padding: 10px;
-}
-
 .header {
   background-image: url("./img/background.png");
   background-repeat: no-repeat;
@@ -186,27 +175,6 @@ input:checked ~ blogPost
   top: 0;
   overflow: hidden;
   justify-content: flex-end;
-}
-
-label {
-  font-family: "Aileron";
-  margin-left: 5%;
-  cursor: pointer;
-  color: #bbb9ec;
-  padding: 10px;
-}
-
-label-before {
-  content: " ";
-}
-
-blogPost {
-  font-family: "Aileron";
-  padding: 10px;
-  margin-left: 5%
-  height: 0;
-  overflow: hidden;
-  opacity: 0;
 }
 
 .nav-bar {
