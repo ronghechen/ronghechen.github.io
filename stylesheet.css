@@ -167,6 +167,14 @@ p.width {
   visibility: hidden;
 }
 
+input {
+  display: none;
+}
+
+input:checked ~ blogPost
+{
+}
+
 .header {
   background-image: url("./img/background.png");
   background-repeat: no-repeat;
@@ -189,9 +197,12 @@ label-before {
   content: " ";
 }
 
-div {
+blogPost {
   font-family: "Aileron";
   padding: 10px;
+  margin-left: 5%
+  height: 0;
+  overflow: hidden;
 }
 
 .nav-bar {
