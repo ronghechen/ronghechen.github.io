@@ -181,19 +181,6 @@ p.width {
   margin: auto;
 }
 
-a:link { 
-  text-decoration: none; 
-} 
-a:visited { 
-  text-decoration: none; 
-} 
-a:hover { 
-  text-decoration: none; 
-} 
-a:active { 
-  text-decoration: none; 
-}
-
 .nav-bar a {
   color: white;
   padding: 1.5rem;
@@ -209,4 +196,26 @@ a:active {
   position: absolute;
   right: 0;
   top: 0;
+}
+
+.readMoreBtn{
+   border: 1px solid black;
+    background-color: transparent;
+    font-family: "Aileron";
+    padding: 12px 28px; 
+    border-radius: 1000px; 
+    cursor: pointer;
+    font-size: 13px;
+    color: white;
+  margin-left: 5%;
+  font-size: 25px;
+  font-family: "Aileron";
+  flex-direction: row;
+  cursor: pointer;
+   border: none;
+   color: black;
+}
+
+readMoreBtn:hover{
+   opacity: 0.5;
 }
