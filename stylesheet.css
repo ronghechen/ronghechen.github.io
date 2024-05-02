@@ -181,6 +181,19 @@ p.width {
   margin: auto;
 }
 
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+
 .nav-bar a {
   color: white;
   padding: 1.5rem;
