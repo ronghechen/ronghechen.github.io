@@ -202,18 +202,17 @@ p.width {
    border: 1px solid black;
     background-color: transparent;
     font-family: "Aileron";
-    padding: 12px 28px; 
+    padding: 5px 10px; 
     border-radius: 1000px; 
     cursor: pointer;
-    font-size: 13px;
-    color: white;
+    font-size: 8px;
+    color: black;
   margin-left: 5%;
   font-size: 25px;
   font-family: "Aileron";
   flex-direction: row;
   cursor: pointer;
    border: none;
-   color: black;
 }
 
 readMoreBtn:hover{
