@@ -201,12 +201,10 @@ p.width {
 .readMoreBtn{
     background-color: transparent;
     font-family: "Aileron";
-    padding: 5px 10px; 
-    border-radius: 1000px; 
     cursor: pointer;
     color: black;
   margin-left: 5%;
-  font-size: 10px;
+  font-size: 15px;
   font-family: "Aileron";
   flex-direction: row;
   cursor: pointer;
