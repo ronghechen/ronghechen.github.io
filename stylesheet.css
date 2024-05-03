@@ -35,6 +35,12 @@ p.width {
   font-family: "Aileron";
 }
 
+.blog {
+  width: 85%;
+  margin-left: 5%;
+  font-family: "Aileron";
+}
+
 .title {
   font-family: "BebasNeue";
   padding-top: 10px;
