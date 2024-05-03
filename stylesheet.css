@@ -199,16 +199,14 @@ p.width {
 }
 
 .readMoreBtn{
-    background-color: transparent;
-    font-family: "Aileron";
-    cursor: pointer;
-    color: black;
-  margin-left: 5%;
+  background-color: transparent;
+  font-family: "Aileron";
+  cursor: pointer;
+  color: #bbb9ec;
+  margin-left: 2%;
   font-size: 15px;
   font-family: "Aileron";
-  flex-direction: row;
   cursor: pointer;
-   border: none;
 }
 
 readMoreBtn:hover{
