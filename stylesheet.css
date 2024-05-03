@@ -183,21 +183,6 @@ p.width {
   justify-content: flex-end;
 }
 
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  background-image: url("./img/background.png");
-  background-repeat: no-repeat;
-  color: white;
-  font-family: "Aileron";
-  text-align: center;
-}
-
-.nav-bar {
-  margin: auto;
-}
-
 .nav-bar a {
   color: white;
   padding: 1.5rem;
