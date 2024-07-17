@@ -216,6 +216,16 @@ p.width {
   cursor: pointer;
 }
 
+.col {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 readMoreBtn:hover{
    opacity: 0.5;
 }
