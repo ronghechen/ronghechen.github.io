@@ -80,6 +80,16 @@ p.width {
    opacity: 0.5;
 }
 
+.pic-middle {
+  width: 200px;
+  height: 250px;
+  margin-right: 5%;
+}
+
+.pic-middle:hover{
+   opacity: 0.5;
+}
+
 .buttonToLink{
    background-image: url('./sean-sinclair-ozqUdQZbjBw-unsplash.jpg');
   background-repeat: no-repeat;
