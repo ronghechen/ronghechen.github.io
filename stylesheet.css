@@ -248,6 +248,13 @@ p.width {
 .row {
   display: flex;
 }
+
+center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 readMoreBtn:hover{
    opacity: 0.5;
 }
