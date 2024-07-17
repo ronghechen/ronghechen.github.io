@@ -74,7 +74,7 @@ p.width {
   height: 250px;
   margin-left: 5%;
   margin-right: 5%;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
 }
 
 .pic:hover{
@@ -95,7 +95,7 @@ p.width {
   width: 200px;
   height: 250px;
   margin-right: 5%;
-  margin-bottom: 5%;
+  margin-bottom: 2%;
 }
 
 .pic-middle:hover{
