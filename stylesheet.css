@@ -79,7 +79,16 @@ p.width {
 .pic:hover{
    opacity: 0.5;
 }
+.pic-left {
+  width: 200px;
+  height: 250px;
+  margin-left: 5%
+  margin-right: 2%;
+}
 
+.pic-left:hover{
+   opacity: 0.5;
+}
 .pic-middle {
   width: 200px;
   height: 250px;
