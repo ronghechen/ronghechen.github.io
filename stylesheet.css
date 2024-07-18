@@ -8,49 +8,49 @@ body {
 @font-face {
       font-family: "Aileron";
       src: url("./css:fonts/aileron/Aileron-Thin.otf") format("truetype");
-      color: white;
     }
 
   @font-face {
       font-family: "BebasNeue";
       src: url("./css:fonts/BebasNeue-Regular.ttf") format("truetype");
-      color: white;
     }
 
   @font-face {
     font-family: "Regular"
     src: url("./css:fonts/aileron/Aileron-Regular.otf") format("truetype");
-    color: white;
     }
 
   @font-face {
     font-family: "Bold"
     src: url("./css:fonts/aileron/Aileron-Bold.otf") format("truetype");
-    color: white;
   }
 
 p.width {
   width: 400;
   margin-left: 5%;
   font-family: "Aileron";
+  color: white;
 }
 
 .li_style {
   width: 75%;
   margin-left: 5%;
   font-family: "Aileron";
+  color: white;
 }
 
 .blog {
   width: 90%;
   margin-left: 5%;
   font-family: "Aileron";
+  color: white;
 }
 
 .title {
   font-family: "BebasNeue";
   padding-top: 10px;
   margin-left: 5%;
+  color: white;
 }
 
 .container {
