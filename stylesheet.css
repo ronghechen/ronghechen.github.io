@@ -318,6 +318,7 @@ p.width {
 }
 .middle {
   margin: 0 auto;
+  padding-bottom: 10vh;
 }
 .center-img {
   display: block;
