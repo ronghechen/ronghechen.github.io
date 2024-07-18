@@ -236,11 +236,6 @@ p.width {
   overflow: hidden;
   justify-content: flex-end;
 }
-.headerText {
-  font-family: "BebasNeue";
-  padding-top: 10px;
-  color: white;
-}
 
 .nav-bar a {
   color: white;
@@ -283,12 +278,16 @@ p.width {
 
 .footer-container{
   background-color: transparent;
-  padding-bottom: 4rem;
+  padding-bottom: 1.3rem;
 }
 
 .footer {
   background-color: transparent;
   height: 40vh;
+  display: flex;
+  color: white;
+  justify-content: center;
+  margin: 0 auto;
 }
 
 .center-img {
