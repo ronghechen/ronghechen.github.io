@@ -4,6 +4,7 @@ body {
   cursor: url('img/cursor.png'), url('img/cursor2.png'), url('img/cursor3.png'), auto;
   background-image:url('img/bg.jpg');
   background-size: cover;
+  min-height: 100vh;
 }
 
 @font-face {
