@@ -55,10 +55,11 @@ p.width {
 
 .main {
   font-family: "Aileron-Black";
+  position: fixed;
   padding-top: 10px;
   margin-left: 5%;
   color: white;
-  font-size:7vw;
+  font-size:5vw;
 }
 
 .container {
