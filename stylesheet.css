@@ -1,7 +1,7 @@
 body {
   height: 100%;
   margin: 0;
-  cursor: url('img/cursor.png'), auto;
+  cursor: url('img/cursor.png'), url('img/cursor2.png'), url('img/cursor3.png'), auto;
   background-image:url('img/bg.jpg');
   background-size: cover;
 }
