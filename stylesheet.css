@@ -67,6 +67,7 @@ p.width {
 
 .mainDiv {
   width: 50%;
+  margin-left: 5%;
   position: fixed;
 }
 
