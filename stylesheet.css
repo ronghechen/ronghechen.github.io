@@ -15,8 +15,8 @@ body {
       src: url("./css:fonts/aileron/Aileron-Black.otf") format("truetype");
     }
 @font-face {
-  font-family: "New York"
-  src: url("./css:fonts/NewYork PERSONAL USE.otf") format("truetype");
+  font-family: "New-York"
+  src: url("./css:fonts/newyork.otf") format("truetype");
 }
 
   @font-face {
@@ -51,7 +51,7 @@ p.width {
 }
 
 .title {
-  font-family: "Aileron-Black";
+  font-family: "New-York";
   padding-top: 10px;
   margin-left: 5%;
   color: white;
