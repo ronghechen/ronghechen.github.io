@@ -281,6 +281,16 @@ p.width {
   display: flex;
 }
 
+.footer-container{
+  background-color: transparent;
+  padding-bottom: 4rem;
+}
+
+.footer {
+  background-color: transparent;
+  height: 40vh;
+}
+
 .center-img {
   display: block;
   width: 200px;
