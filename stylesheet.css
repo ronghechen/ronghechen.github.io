@@ -317,6 +317,7 @@ p.width {
 }
 .middle {
   margin: 0 auto;
+  min-height: calc(100vh - 150px);
 }
 .center-img {
   display: block;
