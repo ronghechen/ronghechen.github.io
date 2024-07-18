@@ -279,6 +279,10 @@ p.width {
 .footer-container{
   background-color: transparent;
   padding-bottom: 1.3rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 .footer {
