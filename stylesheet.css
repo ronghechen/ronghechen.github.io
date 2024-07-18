@@ -293,10 +293,13 @@ p.width {
 
 .footer-container{
   background-color: transparent;
-  position: absolute;
+  position: relative;
   bottom: 0px;
+  height: 100px;
+  margin-top: -100px;
   width: 100%;
   color: white;
+  clear: both;
 }
 
 .footer {
@@ -318,6 +321,7 @@ p.width {
 }
 .middle {
   margin: 0 auto;
+  min-height: 100vh;
   padding-bottom: 10vh;
 }
 .center-img {
