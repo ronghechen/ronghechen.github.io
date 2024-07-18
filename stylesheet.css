@@ -60,14 +60,20 @@ p.width {
 .sparkle-left {
   font-family: "New-York";
   padding-top: 10px;
-  margin-left: 2%;
+  margin-left: 1%;
   color: white;
-  font-size:3vw;
+  font-size:2vw;
 }
-
+.sparkle-right {
+  font-family: "New-York";
+  padding-top: 5px;
+  margin-left: 10%;
+  color: white;
+  font-size:2vw;
+}
 .main {
   font-family: "New-York";
-  padding-top: 10px;
+  padding-top: 5px;
   margin-left: 5%;
   color: white;
   font-size:5vw;
