@@ -57,6 +57,14 @@ p.width {
   color: white;
 }
 
+.sparkle-left {
+  font-family: "New-York";
+  padding-top: 10px;
+  margin-left: 2%;
+  color: white;
+  font-size:3vw;
+}
+
 .main {
   font-family: "New-York";
   padding-top: 10px;
