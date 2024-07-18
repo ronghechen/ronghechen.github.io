@@ -59,11 +59,14 @@ p.width {
 
 .main {
   font-family: "New York";
-  position: fixed;
   padding-top: 10px;
   margin-left: 5%;
   color: white;
   font-size:5vw;
+}
+
+.mainDiv {
+  position: fixed;
 }
 
 .container {
