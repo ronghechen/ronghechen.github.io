@@ -278,16 +278,16 @@ p.width {
 
 .footer-container{
   background-color: transparent;
-  padding-bottom: 1.3rem;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
+  color: white;
 }
 
 .footer {
   background-color: transparent;
-  height: 40vh;
+  height: 10vh;
   display: flex;
   color: white;
   justify-content: center;
