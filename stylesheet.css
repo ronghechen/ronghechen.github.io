@@ -71,16 +71,23 @@ p.width {
   color: white;
   font-size:2vw;
 }
-.main {
+.mainLeft {
   font-family: "New-York";
-  padding-top: 2%;
+  padding-top: 1%;
   margin-left: 5%;
+  color: white;
+  font-size:5vw;
+}
+.mainRight {
+  font-family: "New-York";
+  padding-top: 1%;
+  margin-left: 15%;
   color: white;
   font-size:5vw;
 }
 
 .mainDiv {
-  width: 50%;
+  width: 40%;
   margin-left: 5%;
   position: fixed;
 }
