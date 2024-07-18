@@ -12,7 +12,7 @@ body {
 
   @font-face {
       font-family: "Aileron-Black";
-      src: url("./css:fonts/Aileron-Black.otf") format("truetype");
+      src: url("./css:fonts/aileron/Aileron-Black.otf") format("truetype");
     }
 
   @font-face {
