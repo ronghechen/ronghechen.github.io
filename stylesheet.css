@@ -104,11 +104,11 @@ p.width {
 }
 
 .roundedpic {
-  width: 40%;
-  height: 40%;
+  width: 30%;
+  height: 30%;
   border-radius: 50%;
   margin-right: 5%;
-  padding-top: 10%;
+  padding-top: 5%;
 }
 
 .roundedpic:hover{
