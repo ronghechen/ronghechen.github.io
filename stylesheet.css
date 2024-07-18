@@ -293,7 +293,7 @@ p.width {
 
 .footer-container{
   background-color: transparent;
-  position: fixed;
+  position: absolute;
   bottom: 0px;
   width: 100%;
   color: white;
