@@ -132,11 +132,11 @@ p.width {
 
 .footer a {
   color: white;
-  padding: 1.5rem;
+  padding: 10px;
   cursor: pointer;
   font-family: "Aileron";
   text-decoration: none;
-  font-size: 1vw;
+  font-size: 5px;
 }
   .roundedpic {
   border-radius: 50%;
