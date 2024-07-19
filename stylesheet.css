@@ -139,10 +139,8 @@ p.width {
   font-size: 5px;
 }
   .roundedpic {
-  border-radius: 50%;
   display: block;
   margin: 0 auto;
-  width: 50%;
   }
 
   p.width {
@@ -170,14 +168,11 @@ p.width {
 }
 
 .roundedpic {
-  width: 50%;
+  width: 60%;
   height: 100%;
   float: right;
 }
 
-.roundedpic:hover{
-   opacity: 0.5;
-}
 .pic {
   width: 200px;
   height: 250px;
