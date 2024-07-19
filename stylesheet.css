@@ -151,6 +151,12 @@ p.width {
   font-family: "Aileron";
   color: white;
   }
+
+  .row {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  }
 }
 
 .container {
