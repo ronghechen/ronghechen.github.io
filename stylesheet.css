@@ -154,10 +154,10 @@ p.width {
   }
 
   .picOfMe {
-    max-width: 50%;
+    max-width: 50vh;
     max-height: 100vh;
     display: block;
-    margin-left: 0%;
+    margin: 0 auto;
     overflow: hidden;
   }
 }
