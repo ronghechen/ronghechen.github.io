@@ -155,7 +155,7 @@ p.width {
 
   .picOfMe {
     max-width: 50%;
-    max-height: 50vh;
+    max-height: 100vh;
     display: block;
     margin-left: 0%;
     overflow: hidden;
@@ -181,7 +181,7 @@ p.width {
 
 .picOfMe {
   max-width: 50%;
-  max-height: 50vh;
+  max-height: 100vh;
   margin-left: 50%;
   object-fit: contain;
   overflow: hidden;
