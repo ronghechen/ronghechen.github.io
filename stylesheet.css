@@ -95,6 +95,14 @@ p.width {
   position: fixed;
 }
 
+@media only screen and (max-width: 767px) {
+  .mainDiv {
+  width: 80%;
+  margin-left: 5%;
+  position: relative;
+  }
+}
+
 .container {
   display: inline-block;
 }
@@ -312,7 +320,7 @@ p.width {
   margin: 0 auto;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 767px) {
   .footer {
   background-color: transparent;
   height: 15vh;
