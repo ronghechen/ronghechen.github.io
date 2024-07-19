@@ -132,7 +132,7 @@ p.width {
 
   .footer a {
     color: white;
-    padding: 10px;
+    padding: 5px;
     cursor: pointer;
     font-family: "Aileron";
     text-decoration: none;
@@ -155,12 +155,13 @@ p.width {
   }
 
   .picOfMe {
-    max-width: 50vh;
+   /* max-width: 50vh;
     display: block;
     align-items: center;
     position: relative;
-    margin-left: 0%;
-    margin-right: 0%;
+    margin-left: auto;
+    margin-right: auto;*/
+    display: none;
   }
 
   .footer {
