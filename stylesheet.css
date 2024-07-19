@@ -110,14 +110,14 @@ p.width {
     color: white;
     font-size:5vw;
   }
-.mainLeft {
+  .mainLeft {
     font-family: "New-York";
     padding-top: 2px;
     margin-left: 5%;
     color: white;
     font-size:10vw;
   }
-.mainRight {
+  .mainRight {
     font-family: "New-York";
     padding-top: 2px;
     margin-left: 20%;
@@ -136,7 +136,7 @@ p.width {
     cursor: pointer;
     font-family: "Aileron";
     text-decoration: none;
-    font-size: 5px;
+    font-size: 5vh;
   }
 
   p.width {
@@ -151,12 +151,15 @@ p.width {
     text-align: center;
     display: flex;
     flex-direction: column;
+    padding-bottom: 10vh;
   }
 
   .picOfMe {
-    max-width: 100vh;
+    max-width: 50vh;
     display: block;
+    align-items: center;
     margin-left: 0%;
+    margin-right: 0%;
   }
 }
 
