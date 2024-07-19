@@ -158,6 +158,7 @@ p.width {
     max-width: 50vh;
     display: block;
     align-items: center;
+    position: relative;
     margin-left: 0%;
     margin-right: 0%;
   }
