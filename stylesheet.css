@@ -184,6 +184,11 @@ p.width {
   }
 }
 
+@media only screen and (min-width: 1024px) {
+  .picOfMeMobile {
+    display: none;
+  }
+}
 .container {
   display: inline-block;
 }
@@ -421,9 +426,6 @@ p.width {
   width: 40%;
 }
 
-.picOfMeMobile {
-  display: none;
-}
 readMoreBtn:hover{
    opacity: 0.5;
 }
