@@ -161,6 +161,15 @@ p.width {
     margin-left: 0%;
     margin-right: 0%;
   }
+
+  .footer {
+    background-color: transparent;
+    height: 30vh;
+    display: flex;
+    color: white;
+    flex-direction: column;
+    margin: 0 auto;
+  }
 }
 
 .container {
