@@ -171,6 +171,12 @@ p.width {
   margin-bottom: 2%;
 }
 
+.picOfMe {
+  width: 300px;
+  height: 350px;
+  margin-left: 40%
+}
+
 .pic:hover{
    opacity: 0.5;
 }
