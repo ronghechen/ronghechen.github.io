@@ -155,11 +155,8 @@ p.width {
 
   .picOfMe {
     max-width: 100vh;
-    max-height: 100vh;
     display: block;
     margin-left: 0%;
-    object-fit: contain;
-    overflow: hidden;
   }
 }
 
