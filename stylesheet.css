@@ -97,66 +97,66 @@ p.width {
 
 @media only screen and (max-width: 767px) {
   .sparkle-left {
-  font-family: "New-York";
-  padding-top: 10px;
-  margin-left: 1%;
-  color: white;
-  font-size:5vw;
-}
-.sparkle-right {
-  font-family: "New-York";
-  padding-top: 2px;
-  margin-left: 25%;
-  color: white;
-  font-size:5vw;
-}
+    font-family: "New-York";
+    padding-top: 10px;
+    margin-left: 1%;
+    color: white;
+    font-size:5vw;
+  }
+  .sparkle-right {
+    font-family: "New-York";
+    padding-top: 2px;
+    margin-left: 25%;
+    color: white;
+    font-size:5vw;
+  }
 .mainLeft {
-  font-family: "New-York";
-  padding-top: 2px;
-  margin-left: 5%;
-  color: white;
-  font-size:10vw;
-}
+    font-family: "New-York";
+    padding-top: 2px;
+    margin-left: 5%;
+    color: white;
+    font-size:10vw;
+  }
 .mainRight {
-  font-family: "New-York";
-  padding-top: 2px;
-  margin-left: 20%;
-  color: white;
-  font-size:10vw;
-}
+    font-family: "New-York";
+    padding-top: 2px;
+    margin-left: 20%;
+    color: white;
+    font-size:10vw;
+  }
   .mainDiv {
-  width: 90%;
-  margin-left: 5%;
-  position: relative;
+    width: 90%;
+    margin-left: 5%;
+    position: relative;
   }
 
-.footer a {
-  color: white;
-  padding: 10px;
-  cursor: pointer;
-  font-family: "Aileron";
-  text-decoration: none;
-  font-size: 5px;
-}
+  .footer a {
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    font-family: "Aileron";
+    text-decoration: none;
+    font-size: 5px;
+  }
 
   p.width {
-  width: 90%;
-  margin-left: 5%;
-  font-family: "Aileron";
-  color: white;
+    width: 90%;
+    margin-left: 5%;
+    font-family: "Aileron";
+    color: white;
   }
 
   .row {
-  margin-left: 5%;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
+    margin-left: 5%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
   }
 
   .picOfMe {
-  width: 50%;
-  height: 50%;
-  margin-left: 0%
+    width: 30%;
+    height: 40%;
+    margin-left: 0%
   }
 }
 
@@ -178,8 +178,8 @@ p.width {
 }
 
 .picOfMe {
-  width: 50%;
-  height: 50%;
+  width: 30%;
+  height: 40%;
   margin-left: 50%
 }
 
