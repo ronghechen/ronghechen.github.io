@@ -138,10 +138,6 @@ p.width {
   text-decoration: none;
   font-size: 5px;
 }
-  .roundedpic {
-  display: block;
-  margin: 0 auto;
-  }
 
   p.width {
   width: 90%;
@@ -165,13 +161,6 @@ p.width {
 @keyframes typing {
   from { width: 0 }
   to { width: 100% }
-}
-
-.roundedpic {
-  width: 30%;
-  height: 30%;
-  border-radius: 50%;
-  top:50%
 }
 
 .pic {
