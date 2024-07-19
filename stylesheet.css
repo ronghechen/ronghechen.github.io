@@ -154,9 +154,9 @@ p.width {
   }
 
   .picOfMe {
-    width: 30%;
-    height: 40%;
-    margin-left: 0%
+    width: 200px;
+    height: 250px;
+    margin-left: 0%;
   }
 }
 
@@ -178,9 +178,9 @@ p.width {
 }
 
 .picOfMe {
-  width: 30%;
-  height: 40%;
-  margin-left: 50%
+  width: 200px;
+  height: 250px;
+  margin-left: 50%;
 }
 
 .pic:hover{
