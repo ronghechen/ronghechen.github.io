@@ -129,6 +129,15 @@ p.width {
   margin-left: 5%;
   position: relative;
   }
+
+.footer a {
+  color: white;
+  padding: 1.5rem;
+  cursor: pointer;
+  font-family: "Aileron";
+  text-decoration: none;
+  font-size: 1rem;
+}
 }
 
 .container {
