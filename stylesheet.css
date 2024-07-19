@@ -155,13 +155,14 @@ p.width {
   }
 
   .picOfMe {
-   /* max-width: 50vh;
+   text-align: center;
+  }
+
+  .picOfMe img{
+    max-width: 50vh;
     display: block;
-    align-items: center;
-    position: relative;
     margin-left: auto;
-    margin-right: auto;*/
-    display: none;
+    margin-right: auto;
   }
 
   .footer {
