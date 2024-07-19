@@ -159,6 +159,7 @@ p.width {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    overflow: hidden;
   }
 }
 
@@ -184,6 +185,7 @@ p.width {
   max-height: 40%;
   margin-left: 50%;
   object-fit: contain;
+  overflow: hidden;
 }
 
 .pic:hover{
