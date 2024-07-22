@@ -172,10 +172,12 @@ p.width {
   }
 
   .pic {
-    margin-bottom: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
   }
   .pic-middle {
-    margin-bottom: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
   }
 }
 .container {
