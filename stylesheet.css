@@ -361,7 +361,7 @@ p.width {
   margin: 5%;
 }
 .row {
-  text-align: center;
+  align-items: center;
   display: flex;
 }
 
