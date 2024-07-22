@@ -170,6 +170,13 @@ p.width {
     padding-top: 5vh;
     padding-bottom: 5vh;
   }
+
+  .pic {
+    margin-bottom: 5%;
+  }
+  .pic-middle {
+    margin-bottom: 5%;
+  }
 }
 .container {
   display: inline-block;
