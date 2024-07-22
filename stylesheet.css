@@ -148,6 +148,7 @@ p.width {
 
   .row {
     margin-left: 5%;
+    margin-bottom: 5%;
     text-align: center;
     display: flex;
     flex-direction: column;
