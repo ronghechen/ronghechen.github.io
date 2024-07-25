@@ -231,6 +231,13 @@ p.width {
    opacity: 0.5;
 }
 
+.textBox{
+  margin-left: 50%;
+  object-fit: contain;
+  overflow: hidden;
+  padding-bottom: 15vh;
+}
+
 .buttonToLink{
    background-image: url('./sean-sinclair-ozqUdQZbjBw-unsplash.jpg');
   background-repeat: no-repeat;
