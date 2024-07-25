@@ -184,10 +184,6 @@ p.width {
   display: inline-block;
 }
 
-.textBox {
-  margin-left: 5%;
-}
-
 @keyframes typing {
   from { width: 0 }
   to { width: 100% }
@@ -233,13 +229,6 @@ p.width {
 
 .pic-middle:hover{
    opacity: 0.5;
-}
-
-.textBox{
-  margin-left: 50%;
-  object-fit: contain;
-  overflow: hidden;
-  padding-bottom: 15vh;
 }
 
 .buttonToLink{
