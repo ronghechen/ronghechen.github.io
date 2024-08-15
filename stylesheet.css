@@ -200,13 +200,15 @@ p.width {
 .picOfMe {
   max-width: 50%;
   max-height: 100vh;
-  margin-left: 50%;
+  padding-top: 0;
+  padding-bottom: 0;
   object-fit: contain;
   overflow: hidden;
 }
 
 .picColumn {
   padding-bottom: 15vh;
+  margin-left: 50%;
 }
 
 .pic:hover{
