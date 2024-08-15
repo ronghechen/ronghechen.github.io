@@ -196,7 +196,13 @@ p.width {
   margin-right: 5%;
   margin-bottom: 2%;
 }
-
+.picOfMeTop {
+  max-height: 100vh;
+  margin-top: 0;
+  padding-bottom: 0;
+  object-fit: contain;
+  overflow: hidden;
+}
 .picOfMe {
   max-height: 100vh;
   margin-top: -2%;
