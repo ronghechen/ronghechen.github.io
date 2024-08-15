@@ -203,6 +203,9 @@ p.width {
   margin-left: 50%;
   object-fit: contain;
   overflow: hidden;
+}
+
+.picColumn {
   padding-bottom: 15vh;
 }
 
