@@ -156,8 +156,7 @@ p.width {
   }
 
   .picColumn {
-  padding-bottom: 15vh;
-  margin-left: -50%;
+    display: none;
   }
 
   .footer {
