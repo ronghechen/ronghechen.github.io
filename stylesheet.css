@@ -155,8 +155,9 @@ p.width {
     padding-bottom: 10vh;
   }
 
-  .picOfMe {
-   display: none;
+  .picColumn {
+  padding-bottom: 15vh;
+  margin-left: 0%;
   }
 
   .footer {
