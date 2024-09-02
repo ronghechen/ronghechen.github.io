@@ -222,15 +222,10 @@ p.width {
 .videoWrapper {
   margin-left: 40%;
 }
-.pic-middle {
-  width: 200px;
-  height: 250px;
-  margin-right: 3%;
-  margin-bottom: 2%;
-}
-
-.pic-middle:hover{
-   opacity: 0.5;
+.imgWrapper {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .buttonToLink{
