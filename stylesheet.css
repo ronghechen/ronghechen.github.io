@@ -226,6 +226,8 @@ p.width {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-left: 5%;
+  margin-right: 5%
 }
 
 .buttonToLink{
