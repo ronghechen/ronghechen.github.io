@@ -228,8 +228,8 @@ p.width {
   display: block;
   margin-top: 5%;
   margin-bottom: 5%;
-  margin-left: 5%
-  margin-right: 5%
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 
@@ -334,8 +334,13 @@ p.width {
   margin: 5%;
 }
 .row {
-  align-items: center;
-  display: flex;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    display: flex;
+    flex-direction: row; /* Changed to row */
+    justify-content: center; /* Center images horizontally */
+    padding-bottom: 10vh;
 }
 
 .footer-container{
