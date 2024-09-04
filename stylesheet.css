@@ -46,13 +46,6 @@ p.width {
   color: white;
 }
 
-.blog {
-  width: 90%;
-  margin-left: 5%;
-  font-family: "Aileron";
-  color: white;
-}
-
 .link { color: #7be1f3; }
 
 .title {
@@ -130,6 +123,16 @@ p.width {
     width: 90%;
     margin-left: 5%;
     position: relative;
+  }
+
+  .picColumn {
+    width: 100%;
+    margin-left: 0;
+    padding: 0;
+  }
+
+  .picOfMeTop, .picOfMe {
+    width: 100%;
   }
 
   .footer a {
