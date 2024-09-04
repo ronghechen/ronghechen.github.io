@@ -173,13 +173,35 @@ p.width {
     padding-bottom: 5vh;
   }
 
-  .pic {
-    margin-top: 2%;
-    margin-bottom: 2%;
+  .row {
+    margin-left: 2%; /* Reduced margin for smaller screens */
+    margin-bottom: 5%;
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Stack items vertically on mobile */
+    justify-content: center;
+    padding-bottom: 10vh;
   }
-  .pic-middle {
-    margin-top: 2%;
-    margin-bottom: 2%;
+
+  .center-img {
+    display: block;
+    width: 80%; /* Increase image width to fit mobile screens */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5vh; /* Reduce padding for smaller screens */
+  }
+
+  .videoWrapper {
+    margin-left: 0; /* Remove left margin for better centering */
+    width: 100%; /* Ensure video takes up the full width */
+  }
+
+  .imgWrapper {
+    display: block;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 2%; /* Adjust margins for mobile */
+    margin-right: 2%;
   }
 }
 .container {
@@ -311,19 +333,6 @@ p.width {
   position: absolute;
   right: 0;
   top: 0;
-}
-
-.readMoreBtn{
-  background-color: transparent;
-  border: 1px solid white;
-  border-radius: 2px;
-  padding: 5px 10px;
-  font-family: "Aileron";
-  color: white;
-  border: none;
-  font-size: 15px;
-  font-family: "Aileron";
-  cursor: pointer;
 }
 
 .col2 {
