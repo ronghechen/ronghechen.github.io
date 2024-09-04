@@ -191,11 +191,10 @@ p.width {
     padding-bottom: 5vh; /* Reduce padding for smaller screens */
   }
 
-  .videoWrapper {
-    margin-left: 0; /* Remove left margin for better centering */
-    width: 100%; /* Ensure video takes up the full width */
+  .video-container video {
+    width: 80%;
   }
-
+  
   .imgWrapper {
     display: block;
     margin-top: 5%;
@@ -244,7 +243,11 @@ p.width {
    opacity: 0.5;
 }
 .videoWrapper {
-  margin-left: 40%;
+  max-width: 100%;
+  height: auto;
+}
+.video-container video {
+  object-fit: cover;
 }
 .imgWrapper {
   display: block;
