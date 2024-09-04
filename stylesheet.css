@@ -178,7 +178,8 @@ p.width {
     }
 
   .videoWrapper {
-        width: 100%;
+        width: 90%; /* Reduce video width on mobile */
+        max-width: none; /* Remove max width restriction */
         text-align: center;
     }
   
@@ -229,8 +230,9 @@ p.width {
 }
 
 .videoWrapper {
-    margin: 0 auto;
-    width: 100%; /* Ensure video wrapper takes up full width */
+   margin: 0 auto;
+    width: 60%; /* Set video width to 60% of the container */
+    max-width: 600px; /* Add a max width for larger screens */
     text-align: center; /* Center the video within the wrapper */
 }
 
