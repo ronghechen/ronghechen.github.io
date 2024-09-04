@@ -149,17 +149,11 @@ p.width {
   }
 
   .row {
-    margin-left: 5%;
-    margin-bottom: 5%;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    padding-bottom: 10vh;
-  }
+        flex-direction: column; /* Stack items vertically */
+        margin-left: 0;
+        margin-right: 0;
+    }
 
-  .picColumn {
-    display: none;
-  }
 
   .footer {
     background-color: transparent;
@@ -184,7 +178,6 @@ p.width {
     }
 
   .videoWrapper {
-        margin-left: 0; /* Center video on mobile */
         width: 100%;
         text-align: center;
     }
@@ -234,18 +227,18 @@ p.width {
 .pic:hover{
    opacity: 0.5;
 }
+
 .videoWrapper {
-    margin: auto;
+    margin: 0 auto;
+    width: 100%; /* Ensure video wrapper takes up full width */
+    text-align: center; /* Center the video within the wrapper */
 }
 
 .imgWrapper {
-  display: block;
-  margin-top: 5%;
-  margin-bottom: 5%;
-  margin-left: 5%;
-  margin-right: 5%;
+    display: block;
+    flex: 1; /* Make each image wrapper take up equal space */
+    margin: 0 2%; /* Add some space between images */
 }
-
 
 /* HTML: <div class="loader"></div> */
 .loader {
@@ -334,15 +327,18 @@ p.width {
   padding: 5px;
   margin: 5%;
 }
+
 .row {
     margin-left: 5%;
     margin-bottom: 5%;
     text-align: center;
     display: flex;
-    flex-direction: row; /* Changed to row */
-    justify-content: center; /* Center images horizontally */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; /* Center images vertically */
     padding-bottom: 10vh;
 }
+
 
 .footer-container{
   background-color: transparent;
@@ -378,11 +374,12 @@ p.width {
   padding-bottom: 10vh;
 }
 .center-img {
-  display: block;
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 10vh;
+    display: block;
+    width: 100%; /* Ensure images take up the full width of the parent */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10vh;
 }
 
 readMoreBtn:hover{
