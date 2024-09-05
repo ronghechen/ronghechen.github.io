@@ -126,8 +126,9 @@ p.width {
   }
 
   .picColumn {
-    padding-bottom: 15vh;
-    margin-left: 0%;
+    /*padding-bottom: 15vh;
+    margin-left: 0%;*/
+    display: none;
   }
 
   .picOfMeTop, .picOfMe {
