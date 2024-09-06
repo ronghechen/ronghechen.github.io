@@ -240,6 +240,8 @@ p.width {
     width: 60%; /* Set video width to 60% of the container */
     max-width: 600px; /* Add a max width for larger screens */
     text-align: center; /* Center the video within the wrapper */
+    margin-top: 10vh;
+    margin-bottom: 10vh;
 }
 
 .imgWrapper {
