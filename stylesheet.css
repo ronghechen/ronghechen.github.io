@@ -33,7 +33,7 @@ body {
   }
 
 p.width {
-  width: 400;
+  width: 90%;
   margin-left: 5%;
   font-family: "Aileron";
   color: white;
@@ -185,6 +185,8 @@ p.width {
         width: 90%; /* Reduce video width on mobile */
         max-width: none; /* Remove max width restriction */
         text-align: center;
+        margin-top: 10vh;
+        margin-bottom: 10vh;
     }
   
   .imgWrapper {
