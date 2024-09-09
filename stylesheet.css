@@ -8,6 +8,10 @@ body {
   padding-bottom: 10vh;
 }
 
+a {
+  cursor: pointer;
+}
+
 @font-face {
       font-family: "Aileron";
       src: url("./css:fonts/aileron/Aileron-Thin.otf") format("truetype");
