@@ -59,6 +59,22 @@ p.width {
   color: white;
 }
 
+button {
+  background-color: transparent;
+  color: white;
+  padding: 10px 20px;
+  border: 1px solid white;
+  font-family: "Aileron";
+  border-radius: 1000px; 
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.5;
+  background-color: ##ffd1e6;
+  transition: background-color 0.2s; 
+}
+
 .sparkle-left {
   font-family: "Edensor";
   padding-top: 10px;
