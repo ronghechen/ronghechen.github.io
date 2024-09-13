@@ -218,13 +218,13 @@ button:hover {
         margin-bottom: 10vh;
     }
 
-  .mockupWrapper {
-        width: 50%; /* Reduce video width on mobile */
-        max-width: none; /* Remove max width restriction */
+  /*.mockupWrapper {
+        width: 50%;
+        max-width: none;
         text-align: center;
         margin-top: 10vh;
         margin-bottom: 10vh;
-    }
+    } */
   
   .imgWrapper {
         margin-left: 0;
@@ -280,13 +280,13 @@ button:hover {
     margin-top: 10vh;
     margin-bottom: 10vh;
 }
-  .mockupWrapper {
-        width: 20%; /* Reduce video width on mobile */
-        max-width: 600px; /* Remove max width restriction */
+  /*.mockupWrapper {
+        width: 20%; 
+        max-width: 600px; 
         text-align: center;
         margin-top: 10vh;
         margin-bottom: 10vh;
-    }
+    }*/
 
 .imgWrapper {
     display: block;
