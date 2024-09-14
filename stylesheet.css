@@ -59,6 +59,13 @@ p.width {
   color: white;
 }
 
+.subtitle {
+  font-family: "Aileron";
+  padding-top: 10px;
+  margin-left: 5%;
+  color: white;
+}
+
 button {
   margin-left: 5%;
   background-color: transparent;
