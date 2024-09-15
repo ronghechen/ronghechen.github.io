@@ -240,13 +240,13 @@ button:hover {
         margin-bottom: 10vh;
     }
 
-  /*.mockupWrapper {
+  .mockupWrapper {
         width: 50%;
         max-width: none;
-        text-align: center;
+        /*text-align: center;*/
         margin-top: 10vh;
         margin-bottom: 10vh;
-    } */
+    } 
   
   .imgWrapper {
         margin-left: 0;
@@ -302,13 +302,13 @@ button:hover {
     margin-top: 10vh;
     margin-bottom: 10vh;
 }
-  /*.mockupWrapper {
+  .mockupWrapper {
         width: 20%; 
         max-width: 600px; 
-        text-align: center;
+        /*text-align: center;*/
         margin-top: 10vh;
         margin-bottom: 10vh;
-    }*/
+    }
 
 .imgWrapper {
     display: block;
