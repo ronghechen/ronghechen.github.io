@@ -469,6 +469,7 @@ readMoreBtn:hover{
   max-width: 500px;
   position: relative;
   margin: auto;
+  padding-bottom: 10vh;
 }
 
 .slides {
