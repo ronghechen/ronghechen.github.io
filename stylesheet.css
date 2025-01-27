@@ -126,9 +126,16 @@ button:hover {
   width: 350px;
 }
 
-.figma {
+.figma iframe {
   width: 800;
   height: 450;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.figma {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 @media only screen and (max-width: 767px) {
@@ -166,7 +173,7 @@ button:hover {
     position: relative;
   }
 
-  .figma {
+  .figma iframe {
     width: 400;
     height: 225;
   }
