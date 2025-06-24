@@ -31,6 +31,7 @@
     <p class="width">for my software studio class, my group & i created this website called notesync, a website that serves as a live music calendar where users can add and view events in their area. it's created in ruby on rails, and deployed using heroku.</p>
     <h2 class="title">challenges</h2>
     <p class="width">for milestone 3, which judges ux and accessibility, we noticed that we failed a lot of the accessiblity checks due to the color of our background. to troubleshoot, we took a look at which specific tests we were failing on accessibilitychecker and used diffchecker to check the difference between passing and failing tests. by changing the color of the foreground text and buttons, we were able to make them "pop" more against our purple background. this helped us pass a lot of the accessibility checks.</p>
+    <p class="width">another challenge we faced was "show events near me", which i worked on. while building the product, i noticed that location geocodng was very slow, and filtered results included all events, not just events near the user. to fix this, i changed the timeout limit to a longer time to allow more time for results to load, and looked for inefficiencies in code that might be causing the slowdown. i used geocoding to get the user's location, then filtered the controller to only show events within a certain radius.</p>
     <div class="footer-container">
       <div class="footer">
         <a href="mailto: ronghechen2027@u.northwestern.edu">email: ronghechen2027@u.northwestern.edu</a>
