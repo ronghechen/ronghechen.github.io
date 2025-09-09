@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="script.js" defer></script>
+    <script src="carousel.js" defer></script>
+    <title>ronghe chen</title>
+    <link rel="stylesheet" href="stylesheet.css">
+     <link rel="shortcut icon" type="image/png" href="logo.png?">
+    <style>
+      body {
+            word-break: break-word;
+           }
+    </style>
+  </head>
+  <body>
+    <div class="loader-wrapper">
+      <span class="loader"></span>
+    </div>
+    <div class="header">
+      <div id="navigation-bar" class="nav-bar">
+        <a href="https://ronghechen.github.io" align="right" class="active">home</a>
+        <a href="portfolio.html" align="right" class="active">portfolio</a>
+        <a href="./Ronghe's Resume.pdf" align="right" class="active">resume</a>
+      </div>
+    </div>
+    <div class="middle">
+      <h1 class="mainLeft">✧･ﾟecholab </h1>
+      </div>
+    </div>
+    <div class="footer-container">
+      <div class="footer">
+        <a href="mailto: ronghechen2027@u.northwestern.edu">email: ronghechen2027@u.northwestern.edu</a>
+        <a href="https://www.linkedin.com/in/ronghe-chen/">linkedin</a>
+      </div>
+  </body>
+</html>
